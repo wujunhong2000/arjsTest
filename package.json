@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "three": "^0.152.2"
+  },
+  "name": "arjstest",
+  "description": "ar-js-org/ar.js test project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujunhong2000/arjsTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujunhong2000/arjsTest/issues"
+  },
+  "homepage": "https://github.com/wujunhong2000/arjsTest#readme"
+}
